@@ -1,0 +1,31 @@
+,14,unnamed
+0,Patient Age at Treatment,0.0
+1,"Total Number of Previous cycles, Both IVF and DI",0.0
+2,Total number of IVF pregnancies,0.0
+3,Total number of live births - conceived through IVF,0.0
+4,Type of Infertility - Female Primary,0.0
+5,Type of Infertility - Female Secondary,0.0
+6,Type of Infertility - Male Primary,0.0
+7,Type of Infertility - Male Secondary,0.0
+8,Type of Infertility -Couple Primary,0.0
+9,Type of Infertility -Couple Secondary,0.0
+10,Cause  of Infertility - Tubal disease,0.0
+11,Cause of Infertility - Ovulatory Disorder,0.0
+12,Cause of Infertility - Male Factor,0.0
+13,Cause of Infertility - Patient Unexplained,0.0
+14,Cause of Infertility - Endometriosis,0.0
+15,Cause of Infertility - Cervical factors,0.0
+16,Cause of Infertility - Female Factors,0.0
+17,Cause of Infertility - Partner Sperm Concentration,0.0
+18,Cause of Infertility -  Partner Sperm Morphology,0.0
+19,Causes of Infertility - Partner Sperm Motility,0.0
+20,Cause of Infertility -  Partner Sperm Immunological factors,0.0
+21,Stimulation used,0.0
+22,Egg Source,0.0
+23,Sperm From,0.0
+24,Fresh Cycle,0.0
+25,Frozen Cycle,0.0
+26,Eggs Mixed With Partner Sperm,0.0
+27,Eggs Thawed,0.0
+28,Embryos Transfered,2.0
+29,Fresh Eggs Collected,0.0
